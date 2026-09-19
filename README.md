@@ -594,4 +594,3 @@ Python | PySpark | Apache Spark | Databricks | Delta Lake | Delta Live Tables | 
 
 ````
 
-**This README is therefore aligned with the code you actually uploaded**, rather than describing features that aren't present in the project.
